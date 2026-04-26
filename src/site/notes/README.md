@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","title":"Trade Protocol — Index","tags":["moc","trade-protocol"],"dg-note-properties":{"title":"Trade Protocol — Index","aliases":["MOC","Home","Index"],"tags":["moc","trade-protocol"]}}
+{"dg-publish":true,"dg-home":true,"permalink":"/","title":"Trade Protocol — Index","tags":["moc","trade-protocol"],"dg-note-properties":{"title":"Trade Protocol — Index","aliases":["MOC","Home","Index"],"tags":["moc","trade-protocol"]}}
 ---
 
 
